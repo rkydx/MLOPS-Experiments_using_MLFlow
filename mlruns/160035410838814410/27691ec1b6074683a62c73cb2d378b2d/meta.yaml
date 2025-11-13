@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/160035410838814410/27691ec1b6074683a62c73cb2d378b2d/artifacts
+end_time: 1763008980282
+entry_point_name: ''
+experiment_id: '160035410838814410'
+lifecycle_stage: active
+run_id: 27691ec1b6074683a62c73cb2d378b2d
+run_name: defiant-loon-923
+run_uuid: 27691ec1b6074683a62c73cb2d378b2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763008975047
+status: 3
+tags: []
+user_id: ravi
