@@ -1,4 +1,4 @@
-# pip install mlflow<3
+# pip install mlflow
 # pip install seaborn
 import mlflow
 import mlflow.sklearn
@@ -22,7 +22,7 @@ y = wine.target
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random_state=42)
 
 # Define the params for the RandomForestClassifier model
-max_depth = 8
+max_depth = 10
 n_estimators = 5
 
 # Mention your experiment below

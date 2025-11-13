@@ -1,4 +1,4 @@
-# pip install mlflow<3
+# pip install mlflow
 # pip install seaborn
 import mlflow
 import mlflow.sklearn
